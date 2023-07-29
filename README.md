@@ -11,7 +11,7 @@
 - [Social Media](#social-media)
 - [License](#license)
 
-## About
+## About Us
 Syed Maaz Portfolio is a personal website showcasing my work as a Front-End Developer and Software Engineer. The website is built using HTML, CSS, JavaScript, and Bootstrap, with a focus on user experience and design principles.
 
 ## More About Me
