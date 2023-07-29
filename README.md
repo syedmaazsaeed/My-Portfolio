@@ -1,6 +1,6 @@
 # Syed Maaz Portfolio
 
-![Portfolio Preview](./assets/images/preview.png)
+![Portfolio Preview](./assets/images/myportfolio.png)
 
 ## Table of Contents
 - [About](#about)
